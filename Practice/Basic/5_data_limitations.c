@@ -9,6 +9,9 @@
 ? long long int => 8 byte
 * 64 bit - ? => 2^64        -> 10^18 porjonto shonkha rhakta parbo
 
+* float => 4 byte       -> ( . ) ar 8 desit por garbes value dekhay
+* double => 8 byte
+
 */
 
 #include <stdio.h>
