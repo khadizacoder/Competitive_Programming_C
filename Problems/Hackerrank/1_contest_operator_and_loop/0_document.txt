@@ -1,0 +1,7 @@
+Platform: Hackerrank
+Topic: Operator, Loop
+Link: https://www.hackerrank.com/contests/introduction-to-c-programming-a-module-3-5-a-practice-day-2/challenges
+Language: C
+Date: 27/10/2025
+Status: Solved
+Complexity: None
