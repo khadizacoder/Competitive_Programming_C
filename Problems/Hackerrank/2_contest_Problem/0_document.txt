@@ -1,0 +1,6 @@
+Platform: Hackerrank
+Link: https://www.hackerrank.com/contests/assignment-01-a-introduction-to-c-programming-a-batch-08/challenges
+Language: C
+Date: 10/10/2025
+Status: Solved
+Complexity: None
