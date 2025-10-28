@@ -1,0 +1,6 @@
+Platform: Codeforces
+Topic: Data Type & Conditions
+Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158
+Language: C
+Date: 15/10/2025
+Status: Solved
