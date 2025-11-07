@@ -1,0 +1,6 @@
+Platform: Codeforces
+Topic: Array
+Link: https://codeforces.com/group/MWSDmqGsZm/contest/219774
+Language: C
+Date: 20/10/2025
+Status: Solved
